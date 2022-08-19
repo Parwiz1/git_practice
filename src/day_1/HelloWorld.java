@@ -7,5 +7,6 @@ public class HelloWorld {
         System.out.println("good old days");
 
         // some extra work here
+        // have fun enjoy the process
     }
 }
